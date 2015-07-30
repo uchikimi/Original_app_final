@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Original_app_final</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scorecount_">Scorecount_Activity</string>
+    <string name="title_activity_test_">Test_Activity</string>
+    <string name="title_activity_count_page">CountPage</string>
+    <string name="title_activity_memo_page">MemoPageActivity</string>
+</resources>
